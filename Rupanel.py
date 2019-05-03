@@ -161,7 +161,7 @@ while loop:
                 menu()
             else:
                 break
-    if what == "01"
+    if what == "01":
         os.system("termux-torch off"
         rmenu = input("[?] Back to Menu? (y/n): ")
         if rmenu == "y":
